@@ -5,3 +5,4 @@ num2 =222
 jingli = 2
 zhangsan =1
 print('nihjao')
+s =10
