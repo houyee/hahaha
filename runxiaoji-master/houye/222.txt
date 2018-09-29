@@ -1,6 +1,7 @@
 #/usr/bin/python3
 num = 111
 num2 =222
-jingli = 2
 
+jingli = 2
+zhangsan =1
 print('nihjao')
