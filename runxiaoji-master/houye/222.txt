@@ -1,2 +1,4 @@
-
+#/usr/bin/python3
 num = 111
+
+print('nihjao')
